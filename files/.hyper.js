@@ -85,7 +85,7 @@ module.exports = {
     //
     // Powershell on Windows
     // - Example: `C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe`
-    shell: "C:\\cygwin64\\bin\\zsh.exe",
+    shell: 'D:\\cygwin64\\bin\\zsh.exe',
 
     // for setting shell arguments (i.e. for using interactive shellArgs: ['-i'])
     // by default ['--login'] will be used
